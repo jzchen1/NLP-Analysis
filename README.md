@@ -9,3 +9,5 @@ The python notebook file contains the source code for the most optimal combinati
 There is also a html file of the python notebook file after all the code has been ran.
 
 The project_source contains the source code for training a classifer with every tool that has been applied in this project.
+
+The review.csv file is required to run this game. The file can be acquired from the following link, because it is too large to be uploaded onto github. Link : https://drive.google.com/file/d/1nq1fqLHYc3UX9YM2OeZys9lbiwAlK8TY/view?usp=sharing
